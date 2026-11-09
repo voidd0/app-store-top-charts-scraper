@@ -1,0 +1,10 @@
+{
+  "chartTypes": [
+    "topfreeapplications",
+    "toppaidapplications"
+  ],
+  "countries": [
+    "us",
+    "gb"
+  ]
+}
